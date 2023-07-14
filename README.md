@@ -8,7 +8,7 @@ This repository contains the following materials:
 
 * The [slides](Slides.pdf) of the talk
 
-* The [examples](examples) shown in the talk as proper C-programs. The folder contains the original program, the YAML-witness and the program that corresponds to this witness (by instrumenting the the witness).
+* The [examples](examples) shown in the talk as proper C-programs. The folder contains the original program, the YAML-witness and the program that corresponds to this witness (by instrumenting the program with data from the witness, such as ghost variables).
 
 * The [YAML schema](witness.schema.json) of the witness proposal
 
