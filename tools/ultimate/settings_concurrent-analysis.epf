@@ -1,0 +1,37 @@
+#Thu Jul 13 21:27:59 CEST 2023
+\!/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction=
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Apply\ one-shot\ Partial\ Order\ Reduction\ to\ input\ program=false
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Apply\ one-shot\ large\ block\ encoding\ in\ concurrent\ analysis=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Compute\ trace\ for\ counterexample\ result=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Number\ of\ independence\ relations\ to\ use\ for\ POR=1
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Partial\ Order\ Reduction\ in\ concurrent\ analysis=PERSISTENT_SETS
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Random\ seed\ used\ by\ POR\ DFS\ order=0
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Read\ initial\ proof\ assertions\ from\ file\ if\ available=false
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Refine\ always\ when\ using\ abstract\ interpretation=false
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/SMT\ solver\ timeout\ for\ commutativity\ in\ POR\ (in\ ms)=1000
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/SMT\ solver\ timeout\ for\ commutativity\ in\ POR\ (in\ ms)\ \#2=1000
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/SMT\ solver\ timeout\ for\ commutativity\ in\ POR\ (in\ ms)\ \#3=1000
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Stop\ after\ first\ violation\ was\ found=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Use\ conditional\ POR\ in\ concurrent\ analysis=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Use\ conditional\ POR\ in\ concurrent\ analysis\ \#2=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Use\ conditional\ POR\ in\ concurrent\ analysis\ \#3=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Use\ semi-commutativity\ for\ POR\ in\ concurrent\ analysis=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Use\ semi-commutativity\ for\ POR\ in\ concurrent\ analysis\ \#2=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Use\ semi-commutativity\ for\ POR\ in\ concurrent\ analysis\ \#3=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction/Use\ semi-commutativity\ for\ large\ block\ encoding\ in\ concurrent\ analysis=true
+@de.uni_freiburg.informatik.ultimate.plugins.generator.traceabstraction=0.2.3
+file_export_version=3.0
+#Thu Jul 13 21:27:59 CEST 2023
+\!/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator=
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Check\ absence\ of\ data\ races\ in\ concurrent\ programs=false
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Check\ array\ bounds\ for\ arrays\ that\ are\ off\ heap=IGNORE
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Check\ division\ by\ zero=IGNORE
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Check\ for\ the\ main\ procedure\ if\ all\ allocated\ memory\ was\ freed=false
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Check\ if\ freed\ pointer\ was\ valid=false
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Check\ unreachability\ of\ error\ function\ in\ SV-COMP\ mode=true
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/If\ two\ pointers\ are\ subtracted\ or\ compared\ they\ have\ the\ same\ base\ address=IGNORE
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Pointer\ base\ address\ is\ valid\ at\ dereference=IGNORE
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/Pointer\ to\ allocated\ memory\ at\ dereference=IGNORE
+/instance/de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator/SV-COMP\ memtrack\ compatibility\ mode=false
+@de.uni_freiburg.informatik.ultimate.plugins.generator.cacsl2boogietranslator=0.2.3
+file_export_version=3.0
