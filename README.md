@@ -12,7 +12,7 @@ This repository contains the following materials:
 
 * The [YAML schema](witness.schema.json) of the witness proposal
 
-* The [documentation](schema-doc/index.html) generated from the schema. The rendered HTML can be seen [here](https://htmlpreview.github.io/?https://github.com/ultimate-pa/VEWIT2023-ConcurrencyGhosts/blob/main/schema-doc/index.html).
+* The [documentation](schema-doc) generated from the schema. The rendered HTML can be seen [here](https://htmlpreview.github.io/?https://github.com/ultimate-pa/VEWIT2023-ConcurrencyGhosts/blob/main/schema-doc/index.html).
 
 * The [tools](tools) to check the examples and generate the documentation on your own. Further documentation can be found [here](tools/README.md).
 
