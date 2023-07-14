@@ -1,6 +1,6 @@
-# Concurrency Correctness Witnesses with Ghosts (VeWit 2023)
+# Concurrency Correctness Witnesses with Ghosts
 
-Here you can find some further material about the talk "Concurrency Correctness Witnesses with Ghosts" at the 1st Workshop on Verification Witnesses and Their Validation. In this talk we pursue to improve the format for concurrency correctness witnesses with the introduction of ghost variables.
+Here you can find some further material about the talk "Concurrency Correctness Witnesses with Ghosts" at the 1st Workshop on Verification Witnesses and Their Validation (VeWit 2023). In this talk we pursue to improve the format for concurrency correctness witnesses with the introduction of ghost variables.
 
 This repository contains the following materials:
 
