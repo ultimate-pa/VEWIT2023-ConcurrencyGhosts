@@ -22,7 +22,7 @@ WITNESS_FILES = $(wildcard ../examples/*.yaml)
 WITNESS_SCHEMA_FILE = ../witness.schema.json
 WITNESS_DOCCFG_FILE = jsfh/jsfh.yml
 WITNESS_DOCOUT_DIR  = output/schema/doc
-WITNESS_DOCPUB_DIR  = ../schema-doc
+WITNESS_DOCPUB_DIR  = ../docs
 
 ULTIMATE_TLC_FILE = ultimate/toolchain_automizer-c-inline.xml
 ULTIMATE_CFG_FILE = ultimate/settings_concurrent-analysis.epf
